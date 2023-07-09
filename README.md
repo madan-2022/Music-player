@@ -13,13 +13,13 @@ The app provides a basic collection of songs that users can choose from. These s
 
 # Technologies Used:
 
-HTML:
+1.HTML:
 The structure of the app's web pages is created using HTML. It includes elements like headings, buttons, lists, and media elements for audio playback.
 
-CSS:
+2.CSS:
 CSS is used to style the app's web pages, including fonts, colors, layout, and responsive design. It enhances the visual appeal and ensures a clean and consistent user interface.
 
-JavaScript:
+3.JavaScript:
 JavaScript is used to add interactivity to the app. It handles audio playback, playlist management, and user interactions. It also enables dynamic updates to the music player interface based on user actions.
 
 By utilizing HTML, CSS, and JavaScript, the Simple Music App provides users with a straightforward and enjoyable music listening experience. Users can play their favorite tracks, create and manage playlists, and easily navigate through a minimalistic and responsive web interface.
